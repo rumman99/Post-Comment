@@ -1,2 +1,5 @@
 #Post-Comment Category
-#Using Material UI, Tailwind CSS, React-Router v6
+#Using:
+    Material UI, 
+    Tailwind CSS, 
+    React-Router v6
